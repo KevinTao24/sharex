@@ -1,24 +1,19 @@
 # Table of contents
 
-* [👋 Welcome to A Product](README.md)
+* [🚀 Welcome](README.md)
 
-## Overview
+## LLMS
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Page 1](llms/page-1.md)
 
-## Product Guides
+## Product
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Page 1](product/page-1.md)
 
-## Fundamentals
+## lookups
 
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
+* [Page 1](lookups/page-1.md)
 
-## Use Cases
+## readings
 
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
+* [Page 2](readings/page-2.md)
